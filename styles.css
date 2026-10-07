@@ -56,6 +56,7 @@
 :where(.efc-brand-guide) .hero .button.secondary{border-color:var(--orange);background:transparent}
 :where(.efc-brand-guide) .button.compact{padding:10px 16px}
 :where(.efc-brand-guide) .button.is-copied{background:#e6f3e9;border-color:#8eb99a;color:#1c5431}
+:where(.efc-brand-guide) .button.primary.is-copied{background:var(--orange);border-color:var(--orange);color:#fff}
 :where(.efc-brand-guide) .button.is-error{background:#fff1ed;border-color:#b9341b;color:#942914}
 :where(.efc-brand-guide) .text-link{font-size:14px;font-weight:500}
 :where(.efc-brand-guide) .helper{font-size:13px;line-height:1.5;color:var(--muted);margin-top:16px}
